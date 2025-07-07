@@ -57,4 +57,4 @@ cargo run -- --project my-project --from-tag v1.0.0 --to-tag v1.1.0 --path /path
 
 - OpenAI API 키가 필요합니다
 - 프로젝트 디렉토리가 Git 저장소여야 합니다
-- 지정한 태그가 존재해야 합니다 
+- 지정한 태그가 존재해야 합니다
